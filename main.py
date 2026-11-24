@@ -9,7 +9,7 @@ import os
 
 MAX_CHARS = 200
 
-LINE = "I have read 40,000 love poems and forgotten all of them on purpose — I'd rather improvise one with you."
+LINE = "I've read 40,000 love poems and forgotten every one on purpose. I'd rather improvise a clumsy one with you than recite a perfect one to nobody."
 
 
 def checked_line() -> str:
